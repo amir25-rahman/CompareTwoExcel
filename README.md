@@ -10,11 +10,11 @@ Additionally, the last portion of my code was borrowed from datascientyst.
 
 <h1>Data_q1(File #1)</h1>
 
-![image](https://user-images.githubusercontent.com/103221687/206346728-7cadf4e4-0aa4-462f-a5ca-f5918e524988.png)
+![image](https://user-images.githubusercontent.com/103221687/206348096-a3decb85-2d74-44ec-b889-f316724d7ac2.png)
 
 <h1>Data_q2(File #2)</h1>
 
-![image](https://user-images.githubusercontent.com/103221687/206346753-2976efa1-3a95-49dc-9dc0-69684d4a2555.png)
+![image](https://user-images.githubusercontent.com/103221687/206348125-176374a2-008c-4173-ae94-863a5c8e870a.png)
 
 <h1>Highlight The Differences</h1>
 
